@@ -14,7 +14,7 @@ import PageOrder from "components/pages/PageOrder/PageOrder";
 import PageProductImport from "components/pages/admin/PageProductImport/PageProductImport";
 
 function App() {
-
+  console.log('serverless');
   return (
     <Router>
       <Switch>
